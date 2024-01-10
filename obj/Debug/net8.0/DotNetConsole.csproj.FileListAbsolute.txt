@@ -12,3 +12,4 @@ C:\Users\jojop\OneDrive\Desktop\REPOS\DotNetConsole\obj\Debug\net8.0\refint\DotN
 C:\Users\jojop\OneDrive\Desktop\REPOS\DotNetConsole\obj\Debug\net8.0\DotNetConsole.pdb
 C:\Users\jojop\OneDrive\Desktop\REPOS\DotNetConsole\obj\Debug\net8.0\DotNetConsole.genruntimeconfig.cache
 C:\Users\jojop\OneDrive\Desktop\REPOS\DotNetConsole\obj\Debug\net8.0\ref\DotNetConsole.dll
+C:\Users\jojop\OneDrive\Desktop\REPOS\DotNetConsole\obj\Debug\net8.0\DotNetConsole.sourcelink.json
